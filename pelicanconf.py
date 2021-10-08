@@ -3,7 +3,7 @@
 
 AUTHOR = "me"
 SITENAME = "woah dude"
-SITEURL = ""
+SITEURL = "."
 
 PATH = "content"
 
